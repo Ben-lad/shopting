@@ -2,6 +2,7 @@ import logo from "./images/logo.jpg";
 import "./App.css";
 import ComingSoon from "./coming";
 import About from './about'
+import Talk from './talk'
 
 const App = () => {
 
@@ -32,6 +33,7 @@ const App = () => {
       </div>
 <ComingSoon  launchDate="2023-4-31"/>
 <About />
+<Talk />
     </div>
   );
 };
