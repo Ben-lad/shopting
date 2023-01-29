@@ -260,10 +260,13 @@ border-top: 5px solid #ff0000;
 }
 @media only screen and (max-width: 868px) {
   .about{
-    height: 810px;
+    height: 1210px;
   }
   .about p {
-    width: 30rem;
+    width: 20rem;
     font-size:1rem;
+}
+body{
+  overflow-x: hidden;
 }
 }

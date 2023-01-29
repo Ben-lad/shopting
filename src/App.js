@@ -1,4 +1,4 @@
-import logo from "./images/logo.jpg";
+import logo from "./images/logo2.png";
 import "./App.css";
 import ComingSoon from "./coming";
 import About from './about'
